@@ -1,4 +1,5 @@
 <h1>
+  <link rel="shortcut icon" type="image/png" href="./favicon.gif">
   <a href="https://github.com">link text</a>
   <h2>
     <a href="https://microsoft.com">link text</a>
